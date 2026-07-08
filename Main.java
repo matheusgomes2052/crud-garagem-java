@@ -204,7 +204,7 @@ public class Main {
         chamaEscolha(numSelected);
     }
     public static void main(String[] args) {
-        System.out.println("<==========GARAGEM TE==========>");
+        System.out.println("<==========GARAGEM==========>");
         System.out.println("Seja bem vindo a garagem de carros em Java!");
         System.out.println("O que você deseja fazer por primeiro?");
         mostraOpcoes();
